@@ -1,3 +1,10 @@
-#### Values JS
 
-[values.js](https://github.com/noeldelgado/values.js)
+# Color Generator
+
+## Screenshots
+
+## Tech stack
+
+**Client:** React.js, CSS
+
+**API**: Values.js
